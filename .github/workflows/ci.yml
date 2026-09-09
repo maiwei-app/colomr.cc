@@ -8,12 +8,12 @@ on:
   workflow_dispatch: {}
 
 jobs:
-  build:
+  hugo-build:
     uses: maiwei-app/workflows/.github/workflows/ci-hugo.yml@main
     with:
       hugo-version: '0.164.0'
 
-  quality:
+  python-testing:
     uses: maiwei-app/workflows/.github/workflows/ci-python.yml@main
     with:
       # The reusable defaults to requirements-ci.lock, which no longer exists.
@@ -40,13 +40,13 @@ jobs:
       - name: Validate badges JSON against schema
         run: check-jsonschema --schemafile schemas/badges.schema.json data/badges.json data/anthropic_badges.json
 
-  sonar:
-    needs: [build, quality]
+  quality-gate:
+    needs: [hugo-build, python-testing]
     uses: maiwei-app/workflows/.github/workflows/sonar-scan.yml@main
     with:
       project-key: maiwei-app_colomr.cc
-      # Report uploaded by the quality job; without it Sonar reads new code
-      # as 0% covered and the quality gate fails.
+      # Report uploaded by the python-testing job; without it Sonar reads new
+      # code as 0% covered and the quality gate fails.
       coverage-artifact: coverage-xml
     secrets:
       sonar-token: ${{ secrets.SONAR_TOKEN }}
