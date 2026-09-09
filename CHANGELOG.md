@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.3.1](https://github.com/maiwei-app/colomr.cc/compare/v2.3.0...v2.3.1) (2026-09-09)
+
+
+### Refactoring
+
+* **ci:** rename job callers to match ruleset-tag / quality-gate convention ([#112](https://github.com/maiwei-app/colomr.cc/issues/112)) ([6059b61](https://github.com/maiwei-app/colomr.cc/commit/6059b613cd0e0de3ecc07af91a828c47a0259247))
+
 ## [2.3.0](https://github.com/maiwei-app/colomr.cc/compare/v2.2.2...v2.3.0) (2026-09-05)
 
 
