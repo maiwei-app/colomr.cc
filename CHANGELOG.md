@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.4.0](https://github.com/maiwei-app/colomr.cc/compare/v2.3.1...v2.4.0) (2026-09-30)
+
+
+### Features
+
+* add substack blog link to the main navigation ([#124](https://github.com/maiwei-app/colomr.cc/issues/124)) ([162a97e](https://github.com/maiwei-app/colomr.cc/commit/162a97ec9a6d060953442abab81b6314274b9224))
+
 ## [2.3.1](https://github.com/maiwei-app/colomr.cc/compare/v2.3.0...v2.3.1) (2026-09-09)
 
 
