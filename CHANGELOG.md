@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.7.1](https://github.com/maiwei-app/colomr.cc/compare/v2.7.0...v2.7.1) (2026-09-30)
+
+
+### Documentation
+
+* align CLAUDE.md with the CI-only verification flow ([#136](https://github.com/maiwei-app/colomr.cc/issues/136)) ([955e6c1](https://github.com/maiwei-app/colomr.cc/commit/955e6c1103356852aa956be9d856d24bf297c59d))
+
 ## [2.7.0](https://github.com/maiwei-app/colomr.cc/compare/v2.6.0...v2.7.0) (2026-09-30)
 
 
