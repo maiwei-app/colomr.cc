@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.7.0](https://github.com/maiwei-app/colomr.cc/compare/v2.6.0...v2.7.0) (2026-09-30)
+
+
+### Features
+
+* regenerate the favicons from the new logo ([#131](https://github.com/maiwei-app/colomr.cc/issues/131)) ([8898189](https://github.com/maiwei-app/colomr.cc/commit/8898189e1b7b7494cdc1d279765ea6e867598b37))
+
 ## [2.6.0](https://github.com/maiwei-app/colomr.cc/compare/v2.5.0...v2.6.0) (2026-09-30)
 
 
