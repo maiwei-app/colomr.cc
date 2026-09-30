@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.5.0](https://github.com/maiwei-app/colomr.cc/compare/v2.4.0...v2.5.0) (2026-09-30)
+
+
+### Features
+
+* replace the site logo ([#126](https://github.com/maiwei-app/colomr.cc/issues/126)) ([054513a](https://github.com/maiwei-app/colomr.cc/commit/054513aca70292b40629288e9ee80d4323bb94f8))
+
 ## [2.4.0](https://github.com/maiwei-app/colomr.cc/compare/v2.3.1...v2.4.0) (2026-09-30)
 
 
