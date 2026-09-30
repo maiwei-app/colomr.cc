@@ -68,6 +68,10 @@ googleAnalytics = 'G-Y0X8CR726Y'
   label = "Dónde"
   url = "/vision/"
   nav_icon = "tactic"
+[[languages.es.params.nav_links]]
+  label = "Blog"
+  url = "https://maiblog.substack.com/"
+  nav_icon = "rss_feed"
 
 # ─── English ───
 [languages.en]
@@ -91,3 +95,7 @@ googleAnalytics = 'G-Y0X8CR726Y'
   label = "Where"
   url = "/vision/"
   nav_icon = "tactic"
+[[languages.en.params.nav_links]]
+  label = "Blog"
+  url = "https://maiblog.substack.com/"
+  nav_icon = "rss_feed"
