@@ -13,7 +13,7 @@ Rama principal: **`main`**. Tema colomr-v1 en producción.
 💡 Idea (sin Specs/ADR — excepción consciente: proyecto personal, bajo riesgo)
    → rama feature (nunca push directo a main)
    → cambio atómico (+ UT solo si se toca lógica; hoy solo hay lógica en scripts/sync_badges.py)
-   → Claude verifica los checks en local, commitea (avisando antes), hace push y CREA EL PR
+   → Claude commitea (avisando antes), hace push y CREA EL PR; los checks los ejecuta el CI
    → Claude pasa la URL del PR al owner — y AHÍ SE DETIENE
        ├─ CI · ci.yml         → ci-hugo.yml (build) + ci-python.yml (ruff/pytest) + badges schema + sonar-scan.yml (CI-based Quality Gate)
        ├─ CI · deploy.yml     → build Hugo (smoke test) + preview Firebase (URL en el PR)
@@ -38,7 +38,7 @@ Reglas derivadas:
 - `scripts/sync_badges.py` — sincronización automática de badges Google
 - `scripts/MANUAL_BADGES.md` — procedimiento manual para badges Anthropic
 - `.github/workflows/sync-badges.yml` — sync semanal (lunes 8:00 UTC)
-- `themes/colomr-v1/` — submódulo git → https://github.com/colomr-cc/colomr-v1-theme
+- `themes/colomr-v1/` — submódulo git → https://github.com/maiwei-app/colomr-v1-theme
   El tema tiene su propio repo, CI y branch protection: los cambios se hacen allí por PR
   y aquí solo se actualiza el puntero del submódulo (también por PR).
 - `layouts/` — overrides personales (footer, iconos gemini/claude)
@@ -182,9 +182,6 @@ Mantener solo 6 badges. Imágenes locales optimizadas en `static/images/`.
 
 ## Comandos útiles
 ```bash
-# Hugo local y CI van a la misma versión (0.164.0). Al subirla en deploy.yml, subir también aquí:
-#   curl -sL https://github.com/gohugoio/hugo/releases/download/v0.164.0/hugo_extended_0.164.0_linux-amd64.deb -o /tmp/hugo.deb && sudo apt install -y /tmp/hugo.deb
-
 hugo server                          # desarrollo local (puerto 1313)
 hugo --cleanDestinationDir           # build producción
 firebase deploy --only hosting       # deploy a Firebase
