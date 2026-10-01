@@ -52,7 +52,7 @@ blocks:
     heading: "Trayectoria"
     items:
       - role: "Google Cloud Presales Engineer"
-        company: "Altostratus | Telefónica Tech"
+        company: "Telefónica Tech"
         period: "Febrero 2022 – actualidad"
         logo: "/images/logos/telefonica-tech.png"
       - role: "Responsable de PMO e Innovación"
