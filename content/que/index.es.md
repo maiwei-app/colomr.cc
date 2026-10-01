@@ -30,6 +30,9 @@ providers:
     profile_url: "https://www.skills.google/public_profiles/36fdb0e1-891c-4dc5-aef1-d89aecc3dd45"
     profile_label: "Mi perfil en Google Skills"
     data: "badges"
+    color: "#fbbc05"
+    on_color: "#202124"
+    icon_tone: "dark"
   - id: "anthropic"
     name: "Anthropic Academy"
     # profile_url: ""          # Anthropic aún no tiene perfiles públicos
