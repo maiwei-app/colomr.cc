@@ -16,6 +16,7 @@ googleAnalytics = 'G-Y0X8CR726Y'
   avatarurl = "/images/avatar.png"
   favicon_32 = "/images/favicon-32x32.png"
   favicon_16 = "/images/favicon-16x16.png"
+  accent_color = "#9d8d62"
   since = 2023
   github_corner = "false"
 
