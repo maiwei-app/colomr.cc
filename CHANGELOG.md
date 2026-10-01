@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.8.0](https://github.com/maiwei-app/colomr.cc/compare/v2.7.1...v2.8.0) (2026-10-01)
+
+
+### Features
+
+* set the accent color to match the logo ([#139](https://github.com/maiwei-app/colomr.cc/issues/139)) ([d5e6bf7](https://github.com/maiwei-app/colomr.cc/commit/d5e6bf7c466a3ffec5a6ba2cb2e4e739b4c3fd5d))
+
 ## [2.7.1](https://github.com/maiwei-app/colomr.cc/compare/v2.7.0...v2.7.1) (2026-09-30)
 
 
