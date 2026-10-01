@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.9.0](https://github.com/maiwei-app/colomr.cc/compare/v2.8.0...v2.9.0) (2026-10-01)
+
+
+### Features
+
+* use the Google yellow for the active Google tab ([#142](https://github.com/maiwei-app/colomr.cc/issues/142)) ([1913a72](https://github.com/maiwei-app/colomr.cc/commit/1913a72d170ffc0bb43b73b362eb39213f236214))
+
 ## [2.8.0](https://github.com/maiwei-app/colomr.cc/compare/v2.7.1...v2.8.0) (2026-10-01)
 
 
