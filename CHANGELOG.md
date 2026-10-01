@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.9.1](https://github.com/maiwei-app/colomr.cc/compare/v2.9.0...v2.9.1) (2026-10-01)
+
+
+### Bug Fixes
+
+* remove Altostratus from the experience entry ([#145](https://github.com/maiwei-app/colomr.cc/issues/145)) ([ba5fad2](https://github.com/maiwei-app/colomr.cc/commit/ba5fad2a8afdd22049da19c76f3efb656f9adc9d))
+
 ## [2.9.0](https://github.com/maiwei-app/colomr.cc/compare/v2.8.0...v2.9.0) (2026-10-01)
 
 
