@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.10.0](https://github.com/maiwei-app/colomr.cc/compare/v2.9.1...v2.10.0) (2026-10-04)
+
+
+### Features
+
+* add new badge Liftoff with Google Antigravity: Build a Video Game with AI ([#150](https://github.com/maiwei-app/colomr.cc/issues/150)) ([4eb7bc4](https://github.com/maiwei-app/colomr.cc/commit/4eb7bc403ec3d908fb9c87d2efd114ca4773a3db))
+
 ## [2.9.1](https://github.com/maiwei-app/colomr.cc/compare/v2.9.0...v2.9.1) (2026-10-01)
 
 
