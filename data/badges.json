@@ -1,5 +1,13 @@
 [
   {
+    "titulo": "Agentic Strategy: Discover, Design, and Prototype",
+    "img": "https://cdn.qwiklabs.com/Le23reG%2BNxUtqmllWHQshNJ4Bf8NsKMaLgUZ8T25WgA%3D",
+    "fecha": "2026-10-14",
+    "url": "https://www.skills.google/public_profiles/36fdb0e1-891c-4dc5-aef1-d89aecc3dd45/badges/28857446",
+    "desc": "Aprende a formular estrategias para agentes de IA, diseñando flujos de trabajo inteligentes y prototipando soluciones avanzadas en Google Cloud.",
+    "desc_en": "Learn to formulate AI agent strategies, designing intelligent workflows and prototyping advanced solutions on Google Cloud."
+  },
+  {
     "titulo": "Liftoff with Google Antigravity: Build a Video Game with AI",
     "img": "https://cdn.qwiklabs.com/EFL7AcbV2amQv8yN4CrrUqA3CNKOBzwBBbZxCsqtwVo%3D",
     "fecha": "2026-10-04",
@@ -38,13 +46,5 @@
     "url": "https://www.skills.google/public_profiles/36fdb0e1-891c-4dc5-aef1-d89aecc3dd45/badges/24471440",
     "desc": "Domine la orquestación de la automatización del ciclo de vida de los datos utilizando Data Agents, optimizando la gestión y el control de los datos.",
     "desc_en": "Master the orchestration of data lifecycle automation using Data Agents, optimizing data management and governance."
-  },
-  {
-    "titulo": "Introduction to Looker",
-    "img": "https://cdn.qwiklabs.com/trCZwK0Hdr%2FpsCC0BqzQUWJ97KmXJYa662iHvG4E1wk%3D",
-    "fecha": "2026-05-23",
-    "url": "https://www.skills.google/public_profiles/36fdb0e1-891c-4dc5-aef1-d89aecc3dd45/badges/24378214",
-    "desc": "Este badge cubre los conceptos fundamentales de Looker, permitiéndole explorar datos y crear informes visualmente atractivos para impulsar la toma de decisiones estratégicas.",
-    "desc_en": "This badge covers the fundamental concepts of Looker, enabling you to explore data and create visually appealing reports to drive strategic decision-making."
   }
 ]
