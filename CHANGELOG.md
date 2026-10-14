@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.12.0](https://github.com/maiwei-app/colomr.cc/compare/v2.11.0...v2.12.0) (2026-10-14)
+
+
+### Features
+
+* replace the avatar ([#160](https://github.com/maiwei-app/colomr.cc/issues/160)) ([8db03a3](https://github.com/maiwei-app/colomr.cc/commit/8db03a3f193b3bed72e65e5511bb66ce6b1699fd))
+
 ## [2.11.0](https://github.com/maiwei-app/colomr.cc/compare/v2.10.0...v2.11.0) (2026-10-14)
 
 
