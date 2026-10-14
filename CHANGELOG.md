@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.11.0](https://github.com/maiwei-app/colomr.cc/compare/v2.10.0...v2.11.0) (2026-10-14)
+
+
+### Features
+
+* add new badge Agentic Strategy: Discover, Design, and Prototype ([#156](https://github.com/maiwei-app/colomr.cc/issues/156)) ([e2cf0d8](https://github.com/maiwei-app/colomr.cc/commit/e2cf0d81fcf8bd2905b509ba624afef8331979ac))
+
 ## [2.10.0](https://github.com/maiwei-app/colomr.cc/compare/v2.9.1...v2.10.0) (2026-10-04)
 
 
