@@ -166,8 +166,8 @@ Se ejecuta cada lunes (cron `0 8 * * 1`) o manualmente:
 4. Si hay cambios: crea una rama y **abre un PR** con revisión solicitada al owner
 5. El owner revisa las descripciones en la preview y mergea → `deploy.yml` publica
 
-Usa el token de la GitHub App `colomr-cc-automation` (variable `APP_CLIENT_ID` y secret
-`AUTOMATION_APP_PRIVATE_KEY`): caduca en 1 hora y, a diferencia de `GITHUB_TOKEN`, sí
+Usa el token de la GitHub App `maibot-app` (variable `MAIBOT_APP_CLIENT_ID` y secret
+`MAIBOT_APP_PRIVATE_KEY`; `release.yml` usa las mismas): caduca en 1 hora y, a diferencia de `GITHUB_TOKEN`, sí
 dispara los checks obligatorios sobre el PR.
 
 ### Gemini API
