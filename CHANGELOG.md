@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.12.1](https://github.com/maiwei-app/colomr.cc/compare/v2.12.0...v2.12.1) (2026-10-15)
+
+
+### Documentation
+
+* update the sync-badges app credentials in CLAUDE.md ([#163](https://github.com/maiwei-app/colomr.cc/issues/163)) ([9fe7121](https://github.com/maiwei-app/colomr.cc/commit/9fe7121bd41a787e60d6dc5af72769481b0b8ea5))
+
 ## [2.12.0](https://github.com/maiwei-app/colomr.cc/compare/v2.11.0...v2.12.0) (2026-10-14)
 
 
