@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.13.0](https://github.com/maiwei-app/colomr.cc/compare/v2.12.1...v2.13.0) (2026-10-17)
+
+
+### Features
+
+* add new badge Optimize Agent Behavior ([#171](https://github.com/maiwei-app/colomr.cc/issues/171)) ([bc1dde7](https://github.com/maiwei-app/colomr.cc/commit/bc1dde794dea2f65a332ae13331cb253536ac772))
+
 ## [2.12.1](https://github.com/maiwei-app/colomr.cc/compare/v2.12.0...v2.12.1) (2026-10-15)
 
 
