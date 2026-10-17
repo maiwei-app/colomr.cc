@@ -1,5 +1,13 @@
 [
   {
+    "titulo": "Optimize Agent Behavior",
+    "img": "https://cdn.qwiklabs.com/9JEniYp7nWu9nSF2xXAOFQyx%2Ba4g2UB%2FLm6g%2F%2B%2BvGKQ%3D",
+    "fecha": "2026-10-16",
+    "url": "https://www.skills.google/public_profiles/36fdb0e1-891c-4dc5-aef1-d89aecc3dd45/badges/28921085",
+    "desc": "Aprende a ajustar, evaluar y refinar el comportamiento de agentes de IA utilizando herramientas avanzadas de Google Cloud para mejorar su precisión y rendimiento.",
+    "desc_en": "Learns to tune, evaluate, and refine AI agent behavior using advanced Google Cloud tools to improve accuracy and performance."
+  },
+  {
     "titulo": "Agentic Strategy: Discover, Design, and Prototype",
     "img": "https://cdn.qwiklabs.com/Le23reG%2BNxUtqmllWHQshNJ4Bf8NsKMaLgUZ8T25WgA%3D",
     "fecha": "2026-10-14",
@@ -38,13 +46,5 @@
     "url": "https://www.skills.google/public_profiles/36fdb0e1-891c-4dc5-aef1-d89aecc3dd45/badges/24495549",
     "desc": "Aprenda a diseñar e implementar pipelines de procesamiento de datos en tiempo real en Google Cloud, asegurando flujos de datos eficientes y análisis inmediatos.",
     "desc_en": "Learn to design and implement real-time data processing pipelines on Google Cloud, ensuring efficient data flows and immediate insights."
-  },
-  {
-    "titulo": "Orchestrate Data Lifecycle Automation with Data Agents",
-    "img": "https://cdn.qwiklabs.com/2A3i9dOELXxMkcrv778RreIcF88iNrkyQw8tNyMV5LA%3D",
-    "fecha": "2026-05-27",
-    "url": "https://www.skills.google/public_profiles/36fdb0e1-891c-4dc5-aef1-d89aecc3dd45/badges/24471440",
-    "desc": "Domine la orquestación de la automatización del ciclo de vida de los datos utilizando Data Agents, optimizando la gestión y el control de los datos.",
-    "desc_en": "Master the orchestration of data lifecycle automation using Data Agents, optimizing data management and governance."
   }
 ]
