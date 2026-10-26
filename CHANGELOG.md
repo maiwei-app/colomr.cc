@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.14.0](https://github.com/maiwei-app/colomr.cc/compare/v2.13.0...v2.14.0) (2026-10-26)
+
+
+### Features
+
+* add new badge Manage Agent Memory and State ([#175](https://github.com/maiwei-app/colomr.cc/issues/175)) ([037c226](https://github.com/maiwei-app/colomr.cc/commit/037c226816bb4db93b3bc29e07254a0d312fb0da))
+
 ## [2.13.0](https://github.com/maiwei-app/colomr.cc/compare/v2.12.1...v2.13.0) (2026-10-17)
 
 
