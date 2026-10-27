@@ -38,8 +38,8 @@ learning:
 
 # Context section
 context:
-  heading: "When you think well... execution vibes"
-  body: "After so many years helping clients, I learned it's not about using the latest cool tool or hiring the most expensive consultancy. Great things are born from the <span class=\"context__emphasis\">right people</span> with the <span class=\"context__emphasis\">right mindset</span>."
+  heading: "When you build trust… the sale follows"
+  body: "After so many years helping clients, I learned that you don't sell by having the best demo or the flashiest marketing. You sell when the client knows you <span class=\"context__emphasis\">can solve their problem</span>."
   icon: "person_heart"
   stat: "20+"
   statLabel: "YEARS OF FAILURES AND JOYS"
