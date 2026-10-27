@@ -44,7 +44,7 @@ googleAnalytics = 'G-Y0X8CR726Y'
   name = "Substack"
   icon = "fa-brands fa-substack fa-2x"
   weight = 6
-  url = "https://maiblog.substack.com/"
+  url = "https://blog.presales.es"
 
 # ─── Español ───
 [languages.es]
@@ -71,7 +71,7 @@ googleAnalytics = 'G-Y0X8CR726Y'
   nav_icon = "tactic"
 [[languages.es.params.nav_links]]
   label = "Blog"
-  url = "https://maiblog.substack.com/"
+  url = "https://blog.presales.es"
   nav_icon = "rss_feed"
 
 # ─── English ───
@@ -99,5 +99,5 @@ googleAnalytics = 'G-Y0X8CR726Y'
   nav_icon = "tactic"
 [[languages.en.params.nav_links]]
   label = "Blog"
-  url = "https://maiblog.substack.com/"
+  url = "https://blog.presales.es"
   nav_icon = "rss_feed"
