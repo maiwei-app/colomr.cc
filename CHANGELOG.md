@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.17.0](https://github.com/maiwei-app/colomr.cc/compare/v2.16.0...v2.17.0) (2026-10-27)
+
+
+### Features
+
+* switch the site domain to presales.es ([#183](https://github.com/maiwei-app/colomr.cc/issues/183)) ([8cfff2b](https://github.com/maiwei-app/colomr.cc/commit/8cfff2b5b3e58d95d409f0048ff80f94c9bc275b))
+
 ## [2.16.0](https://github.com/maiwei-app/colomr.cc/compare/v2.15.0...v2.16.0) (2026-10-27)
 
 
