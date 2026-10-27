@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.15.0](https://github.com/maiwei-app/colomr.cc/compare/v2.14.0...v2.15.0) (2026-10-27)
+
+
+### Features
+
+* replace site logo and regenerate favicons ([#178](https://github.com/maiwei-app/colomr.cc/issues/178)) ([970d5c0](https://github.com/maiwei-app/colomr.cc/commit/970d5c0ec96c7954ad21e09afc96b4dcdd8d0929))
+
 ## [2.14.0](https://github.com/maiwei-app/colomr.cc/compare/v2.13.0...v2.14.0) (2026-10-26)
 
 
