@@ -1,5 +1,4 @@
 baseurl = "https://colomr.cc/"
-title = "🤖AI Practitioner ⛅Cloud Architect 🌙Solo Developer"
 theme = "colomr-v1"
 defaultContentLanguage = "es"
 defaultContentLanguageInSubdir = true
@@ -45,12 +44,13 @@ googleAnalytics = 'G-Y0X8CR726Y'
   name = "Substack"
   icon = "fa-brands fa-substack fa-2x"
   weight = 6
-  url = "https://maiblog.substack.com/"
+  url = "https://blog.presales.es"
 
 # ─── Español ───
 [languages.es]
   locale = "es"
   label = "Español"
+  title = "PRESALES | Venta Consultiva"
   weight = 1
 
 [languages.es.params]
@@ -71,13 +71,14 @@ googleAnalytics = 'G-Y0X8CR726Y'
   nav_icon = "tactic"
 [[languages.es.params.nav_links]]
   label = "Blog"
-  url = "https://maiblog.substack.com/"
+  url = "https://blog.presales.es"
   nav_icon = "rss_feed"
 
 # ─── English ───
 [languages.en]
   locale = "en"
   label = "English"
+  title = "PRESALES | Consultative Selling"
   weight = 2
 
 [languages.en.params]
@@ -98,5 +99,5 @@ googleAnalytics = 'G-Y0X8CR726Y'
   nav_icon = "tactic"
 [[languages.en.params.nav_links]]
   label = "Blog"
-  url = "https://maiblog.substack.com/"
+  url = "https://blog.presales.es"
   nav_icon = "rss_feed"
