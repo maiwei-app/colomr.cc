@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.16.0](https://github.com/maiwei-app/colomr.cc/compare/v2.15.0...v2.16.0) (2026-10-27)
+
+
+### Features
+
+* update hero texts and site titles ([#180](https://github.com/maiwei-app/colomr.cc/issues/180)) ([ce151e1](https://github.com/maiwei-app/colomr.cc/commit/ce151e19606b125bb5932e79a4a1d3e430c41bec))
+
 ## [2.15.0](https://github.com/maiwei-app/colomr.cc/compare/v2.14.0...v2.15.0) (2026-10-27)
 
 
