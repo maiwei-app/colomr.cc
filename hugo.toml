@@ -1,5 +1,4 @@
 baseurl = "https://colomr.cc/"
-title = "Presales | Preventa"
 theme = "colomr-v1"
 defaultContentLanguage = "es"
 defaultContentLanguageInSubdir = true
@@ -51,6 +50,7 @@ googleAnalytics = 'G-Y0X8CR726Y'
 [languages.es]
   locale = "es"
   label = "Español"
+  title = "PRESALES | Venta Consultiva"
   weight = 1
 
 [languages.es.params]
@@ -78,6 +78,7 @@ googleAnalytics = 'G-Y0X8CR726Y'
 [languages.en]
   locale = "en"
   label = "English"
+  title = "PRESALES | Consultative Selling"
   weight = 2
 
 [languages.en.params]

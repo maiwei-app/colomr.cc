@@ -1,5 +1,5 @@
 ---
-title: "Presales | Preventa | Google Cloud"
+title: "PRESALES | Consultative & Technical Selling"
 
 # Hero section
 hero:
