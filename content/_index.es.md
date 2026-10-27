@@ -1,5 +1,5 @@
 ---
-title: "🤖AI Practitioner ⛅Cloud Architect 🌙Solo Developer"
+title: "Presales | Preventa | Google Cloud"
 
 # Hero section
 hero:
@@ -13,11 +13,11 @@ hero:
   chips:
     - "GOOGLE CLOUD"
     - "ANTHROPIC"
-  title: "Tecnología, Negocio y"
-  titleHighlight: "Personas"
-  subtitle: "Más de 20 años diseñando \"cosas\" que funcionan"
-  subtitleEmphasis: "y que ahora van solas"
-  subtitleEmoji: "🤖"
+  title: "Venta Consultiva y"
+  titleHighlight: "Técnica"
+  subtitle: "Vender no es una ciencia,"
+  subtitleEmphasis: "es una cuestión de confianza"
+  subtitleEmoji: "🤝"
   ctas:
     - label: "Más sobre mí"
       url: "/sobre-mi/"
