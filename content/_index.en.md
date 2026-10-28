@@ -1,5 +1,5 @@
 ---
-title: "PRESALES | Consultative & Technical Selling"
+title: "Consultative & Technical Selling"
 
 # Hero section
 hero:
