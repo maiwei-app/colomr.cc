@@ -6,6 +6,7 @@ hero:
   cover: "/images/covers/home.webp"
   cover_opacity: "0"
   cover_effect: "glass"
+  content_width: "36rem"
   cover_position: "top center"
   chips:
     - "GOOGLE CLOUD"
