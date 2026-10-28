@@ -4,10 +4,10 @@ description: "Badges and certifications on Google Cloud Skills Boost and Anthrop
 url: "/en/training/"
 layout: "providers"
 
-cover: "https://lh3.googleusercontent.com/p/AF1QipN1l7oHSeD679dX4JWhKKCOf_o_SEXtPOVwRYJZ=s1360-w1360-h1020-rw"
-cover_position: "bottom  center"
+cover: "/images/covers/formacion.webp"
+cover_position: "center center"
 cover_ratio: "16 / 9"
-cover_opacity: "0.4"
+cover_opacity: "0"
 icon: "📚"
 pageTitle: "Continuous Training"
 subtitle: "Theory is only half the story..."
