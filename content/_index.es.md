@@ -1,5 +1,5 @@
 ---
-title: "PRESALES | Venta Consultiva y Técnica"
+title: "Venta Consultiva y Técnica"
 
 # Hero section
 hero:
