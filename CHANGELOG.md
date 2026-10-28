@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.19.0](https://github.com/maiwei-app/presales.es/compare/v2.18.0...v2.19.0) (2026-10-28)
+
+
+### Features
+
+* narrow the home hero glass card to 36rem ([#189](https://github.com/maiwei-app/presales.es/issues/189)) ([f1f9472](https://github.com/maiwei-app/presales.es/commit/f1f94724ff68e5d0f180974a1da23e399750b2d7))
+
 ## [2.18.0](https://github.com/maiwei-app/presales.es/compare/v2.17.0...v2.18.0) (2026-10-28)
 
 
