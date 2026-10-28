@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.21.0](https://github.com/maiwei-app/presales.es/compare/v2.20.0...v2.21.0) (2026-10-28)
+
+
+### Features
+
+* rewrite the about page content ([#194](https://github.com/maiwei-app/presales.es/issues/194)) ([c3f4faa](https://github.com/maiwei-app/presales.es/commit/c3f4faa86e56596cc79fa516f8f967eabbfb63c4))
+
 ## [2.20.0](https://github.com/maiwei-app/presales.es/compare/v2.19.0...v2.20.0) (2026-10-28)
 
 
