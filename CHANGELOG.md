@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.18.0](https://github.com/maiwei-app/presales.es/compare/v2.17.0...v2.18.0) (2026-10-28)
+
+
+### Features
+
+* replace home cover image ([#186](https://github.com/maiwei-app/presales.es/issues/186)) ([ac82024](https://github.com/maiwei-app/presales.es/commit/ac8202488c17b94b14d7cad67ecceeb62774c6a4))
+
 ## [2.17.0](https://github.com/maiwei-app/colomr.cc/compare/v2.16.0...v2.17.0) (2026-10-27)
 
 
