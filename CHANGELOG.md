@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.20.0](https://github.com/maiwei-app/presales.es/compare/v2.19.0...v2.20.0) (2026-10-28)
+
+
+### Features
+
+* update the page title format ([#192](https://github.com/maiwei-app/presales.es/issues/192)) ([0f13e67](https://github.com/maiwei-app/presales.es/commit/0f13e6752309f3b9e1a40d4b199cc03fa70489f5))
+
 ## [2.19.0](https://github.com/maiwei-app/presales.es/compare/v2.18.0...v2.19.0) (2026-10-28)
 
 
