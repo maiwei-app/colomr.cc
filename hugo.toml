@@ -40,11 +40,6 @@ googleAnalytics = 'G-Y0X8CR726Y'
   icon = "fa-solid fa-code fa-2x"
   weight = 5
   url = "https://g.dev/colomr"
-[[params.social]]
-  name = "Substack"
-  icon = "fa-brands fa-substack fa-2x"
-  weight = 6
-  url = "https://blog.presales.es"
 
 # ─── Español ───
 [languages.es]
