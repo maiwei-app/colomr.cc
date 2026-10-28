@@ -4,7 +4,7 @@ title: "PRESALES | Consultative & Technical Selling"
 # Hero section
 hero:
   cover: "/images/covers/home.webp"
-  cover_opacity: "0.55"
+  cover_opacity: "0"
   cover_effect: "glass"
   cover_position: "top center"
   chips:

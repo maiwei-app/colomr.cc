@@ -7,7 +7,7 @@ hero:
   # cover_opacity: "0.55"          # 0 = sin oscurecer, 1 = negro total (defecto 0.65)
   # cover_effect: "glass"          # glass | vignette | shadow | highlight
   cover: "/images/covers/home.webp"
-  cover_opacity: "0.55"
+  cover_opacity: "0"
   cover_effect: "glass"
   cover_position: "top center"
   chips:
