@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.22.0](https://github.com/maiwei-app/presales.es/compare/v2.21.0...v2.22.0) (2026-10-28)
+
+
+### Features
+
+* add a call to action button to the header ([#197](https://github.com/maiwei-app/presales.es/issues/197)) ([aa9d93d](https://github.com/maiwei-app/presales.es/commit/aa9d93d051753a10ee2781b78fada7ef2f4d6106))
+
 ## [2.21.0](https://github.com/maiwei-app/presales.es/compare/v2.20.0...v2.21.0) (2026-10-28)
 
 
