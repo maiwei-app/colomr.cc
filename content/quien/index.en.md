@@ -14,9 +14,8 @@ pageTitle: "Francisco Colomer"
 subtitle: "Google Cloud Presales Engineer"
 
 tags_list:
-  - label: "Google Cloud"
-  - label: "AI Practitioner"
-  - label: "Vibe Coder"
+  - label: "Technology"
+  - label: "Business"
 
 # Content blocks (Notion-style)
 blocks:
