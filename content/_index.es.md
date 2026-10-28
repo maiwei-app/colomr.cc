@@ -6,8 +6,8 @@ hero:
   # cover_position: "center center"  # top center | right center | bottom center
   # cover_opacity: "0.55"          # 0 = sin oscurecer, 1 = negro total (defecto 0.65)
   # cover_effect: "glass"          # glass | vignette | shadow | highlight
-  cover: "https://backiee.com/static/wallpapers/1000x563/339323.jpg"
-  cover_opacity: "0.55"
+  cover: "/images/covers/home.webp"
+  cover_opacity: "0"
   cover_effect: "glass"
   cover_position: "top center"
   chips:

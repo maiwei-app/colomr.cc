@@ -3,8 +3,8 @@ title: "PRESALES | Consultative & Technical Selling"
 
 # Hero section
 hero:
-  cover: "https://backiee.com/static/wallpapers/1000x563/339323.jpg"
-  cover_opacity: "0.55"
+  cover: "/images/covers/home.webp"
+  cover_opacity: "0"
   cover_effect: "glass"
   cover_position: "top center"
   chips:

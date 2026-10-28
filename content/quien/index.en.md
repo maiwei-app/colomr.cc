@@ -5,10 +5,10 @@ url: "/en/about/"
 layout: "blocks"
 
 # Page hero data
-cover: "https://www.visitvalencia.com/sites/default/files/styles/full_width_gallery_reduced_height_1920x450/public/media/media-images/images/_H3B6271_b.webp?itok=Kvqr5vEI"
+cover: "/images/covers/sobre-mi.webp"
 cover_position: "center center"
 cover_ratio: "16 / 9"
-cover_opacity: "0.50"
+cover_opacity: "0"
 icon: "👾"
 pageTitle: "Francisco Colomer"
 subtitle: "🤖AI Practitioner ⛅Cloud Architect 🌙Solo Developer"

@@ -8,10 +8,10 @@ layout: "blocks"
 # cover_ratio: "3 / 1"          # 3/1 (defecto) | 16/9 | 4/1 | 2.5/1
 # cover_position: "top center"  # top center | right center | bottom center
 # cover_opacity: "0.5"          # 0 = sin oscurecer, 1 = negro total (defecto 0.5)
-cover: "https://images.unsplash.com/photo-1648607200576-12a71a662ec1"
+cover: "/images/covers/vision.webp"
 cover_ratio: "16 / 9"
 cover_position: "center center"
-cover_opacity: "0.4"
+cover_opacity: "0"
 icon: "🔭"
 pageTitle: "Visión"
 subtitle: "En la era de la IA"
