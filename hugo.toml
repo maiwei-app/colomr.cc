@@ -74,6 +74,10 @@ googleAnalytics = 'G-Y0X8CR726Y'
   url = "https://blog.presales.es"
   nav_icon = "rss_feed"
 
+[languages.es.params.nav_cta]
+  label = "¿Hablamos? 🤝"
+  url = "mailto:hola@presales.es"
+
 # ─── English ───
 [languages.en]
   locale = "en"
@@ -101,3 +105,7 @@ googleAnalytics = 'G-Y0X8CR726Y'
   label = "Blog"
   url = "https://blog.presales.es"
   nav_icon = "rss_feed"
+
+[languages.en.params.nav_cta]
+  label = "Let's talk 🤝"
+  url = "mailto:hola@presales.es"
