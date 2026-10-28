@@ -44,7 +44,9 @@ blocks:
 
   - type: "text"
     heading: "En mi tiempo libre"
-    body: "Escribo Presales en Español @ [blog.presales.es](https://blog.presales.es)"
+    highlight: true
+    icon: "fa-solid fa-rss"
+    body: "Escribo Presales en Español en [blog.presales.es](https://blog.presales.es)"
 
   - type: "text"
     heading: "Prefiero..."
@@ -58,4 +60,5 @@ blocks:
   - type: "cta"
     text: "Si tu empresa o tu equipo de preventa necesita vender mejor de forma consultiva:"
     label: "Hablemos 🤝"
+    url: "mailto:hola@presales.es"
 ---
