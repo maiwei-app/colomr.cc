@@ -14,7 +14,7 @@ cover_ratio: "16 / 9"
 cover_opacity: "0"
 icon: "👾"
 pageTitle: "Francisco Colomer"
-subtitle: "🤖AI Practitioner ⛅Cloud Architect 🌙Solo Developer"
+subtitle: "Google Cloud Presales Engineer"
 
 tags_list:
   - label: "Google Cloud"
@@ -23,73 +23,42 @@ tags_list:
 
 # Content blocks (Notion-style)
 blocks:
+  - type: "stats"
+    items:
+      - value: "+20"
+        label: "años"
+      - value: "4"
+        label: "multinacionales"
+      - value: "2"
+        label: "empresas propias"
+    quote: "He trabajado para PYMEs, Multinacionales, Empresas del IBEX35 y Administración Pública"
+
   - type: "text"
-    heading: "Sobre mí"
+    heading: "Lo que sé hacer de verdad"
+    highlight: true
     body: |
-      Empecé de niño con un Amstrad CPC464. Vi nacer el PC, Internet, la Virtualización, la Nube, Blockchain y ahora la Inteligencia Artificial. Cada nueva revolución se asienta sobre la base de lo que ya aprendí, me siento un privilegiado por vivir en primera persona esta época tan apasionante.
+      - Ganarme la confianza del cliente y ayudarle a decidir
+      - Diseñar arquitecturas/soluciones de Google Cloud
+      - Entender cómo piensan las grandes organizaciones
+      - Pasar de idea a producción entendiendo todo el E2E
 
-      En mi etapa de junior la ilusión me llevó a IBM Greenock, Sun Microsystems Edinburgh, RIM London. Regresé a España y co-fundé una empresa de E-Commerce como director técnico. Dos años más tarde lancé una compañía con capital propio y la operé nueve años, hasta que una empresa, de mayor tamaño, propuso integrarnos en su estructura empresarial. Dejé el mercado de la PyME, cansado de integrar soluciones multi-vendor. Decidí especializarme en Google como único fabricante; llevo cinco años en una startup adquirida por Telefónica ayudando a empresas en su migración de cargas a Google Cloud. Mi trabajo de GCP Presales Engineer me facilita estar a caballo entre el negocio y la tecnología, rol donde me siento como pez en el agua.
+  - type: "text"
+    heading: "En mi tiempo libre"
+    highlight: true
+    icon: "fa-solid fa-rss"
+    body: "Escribo Presales en Español en [blog.presales.es](https://blog.presales.es)"
 
-      - De día ⛅ diseño arquitecturas de Google Cloud para grandes cuentas: RFPs, demos técnicas, ciclos de venta complejos... Aquí aprendo cómo piensa una organización grande cuando tiene miedo de equivocarse.
-      - En mi tiempo libre 🌙 construyo "cosas" que ahora van solas 🤖. Encargarme de todas las fases en mis side-projects me da una visión 360º que ningún curso te enseña: idea, prototipado, arquitectura, código, calidad, despliegue, mantenimiento, etc.
+  - type: "text"
+    heading: "Prefiero..."
+    highlight: true
+    list_style: "check"
+    body: |
+      - Perderme por la montaña antes que en reuniones improductivas
+      - La tecnología como disciplina de aprendizaje antes que los títulos bonitos
+      - Hacer las cosas bien, no me siento cómodo ante la mentalidad del todo vale por vender
 
-      Lo que me motiva es ver crecimiento y sentido en lo que hago. Lo que me apaga es repetir sin aprender, el "siempre se ha hecho así".
-
-  - type: "cards"
-    heading: "En qué destaco"
-    items:
-      - icon: "cloud"
-        title: "Preventa Técnica"
-        body: "Diseño de soluciones GCP, RFPs, demos técnicas y acompañamiento en ciclos de venta complejos."
-      - icon: "cognition_2"
-        title: "Pensamiento Crítico"
-        body: "Traduzco necesidades de negocio en arquitecturas concretas. Sin humo, con criterio."
-      - icon: "robot_2  "
-        title: "Inteligencia Artificial"
-        body: "Uso diario de Gemini y Claude para acelerar trabajo real. Construyo soluciones para clientes y side-projects personales."
-
-  - type: "timeline"
-    heading: "Trayectoria"
-    items:
-      - role: "Google Cloud Presales Engineer"
-        company: "Telefónica Tech"
-        period: "Febrero 2022 – actualidad"
-        logo: "/images/logos/telefonica-tech.png"
-      - role: "Responsable de PMO e Innovación"
-        company: "Punt Sistemes"
-        period: "Marzo 2020 – Febrero 2022"
-        logo: "/images/logos/punt-sistemes.png"
-      - role: "Fundador y CTO"
-        company: "NESSYS IT"
-        period: "Abril 2011 – Marzo 2020"
-        logo: "/images/logos/nessys.png"
-      - role: "Administrador de Sistemas y Consultor TI"
-        company: "Creaciones Euromoda SL"
-        period: "Abril 2009 – Abril 2011"
-        logo: "/images/logos/euromoda.png"
-      - role: "Administrador de Sistemas"
-        company: "Research In Motion"
-        period: "Octubre 2007 – Abril 2009"
-        logo: "/images/logos/rim.png"
-      - role: "Administrador de Sistemas"
-        company: "Sun Microsystems"
-        period: "Marzo 2006 – Octubre 2007"
-        logo: "/images/logos/sun.png"
-      - role: "Soporte Técnico EMEA"
-        company: "IBM Global Services"
-        period: "Agosto 2005 – Marzo 2006"
-        logo: "/images/logos/ibm.png"
-
-  - type: "contact"
-    heading: "Encuéntrame en"
-    items:
-      - label: "LinkedIn"
-        url: "https://www.linkedin.com/in/colomr"
-        icon: "fa-brands fa-linkedin-in"
-      - label: "GitHub"
-        url: "https://github.com/colomr-cc"
-        icon: "fa-brands fa-github"
-      - label: "Google for Developers"
-        url: "https://g.dev/colomr"
-        icon: "fa-solid fa-code"
+  - type: "cta"
+    text: "Si tu empresa o tu equipo de preventa necesita vender mejor de forma consultiva:"
+    label: "Hablemos 🤝"
+    url: "mailto:hola@presales.es"
 ---
